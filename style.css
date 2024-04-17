@@ -1,0 +1,28 @@
+body {
+  font-family: Verdana, Arial, sans-serif;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 700px;
+  margin: 0;
+}
+.Caja {
+  margin-top: 50px;
+  background-color: transparent;
+  width: 80%;
+  text-align:center;
+  border: 2px solid #007bff;
+  line-height: 6mm;
+}
+
+.Titulo {
+  padding:1px;
+  background-color: lightblue;
+  margin-bottom: 10px;
+}
+
+.Formulario {
+  background-color: #ffffff;
+  margin-bottom: 10px;
+}
